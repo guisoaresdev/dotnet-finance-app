@@ -1,19 +1,8 @@
-# API de Alocação de Recursos
+# Finance App
 
 ## Sobre o projeto
 
-A ideia deste projeto é desenvolver uma REST API capaz de cadastrar novos endpoints para alocar recursos específicos da web que os usuários possam necessitar.  
-O objetivo principal é praticar o uso do .NET, explorando suas funcionalidades e o desenvolvimento de APIs RESTful.
-
----
-
-## Funcionalidades
-
-- **Cadastro de endpoints**: Permite criar endpoints personalizados para diferentes recursos.
-- **Listagem de endpoints**: Retorna todos os endpoints registrados.
-- **Atualização de endpoints**: Atualiza os detalhes de um endpoint existente.
-- **Exclusão de endpoints**: Remove endpoints cadastrados.
-- **Validação de endpoints**: Verifica se um endpoint está funcional.
+A ideia deste projeto é desenvolver uma REST API capaz de armazenar os dados de um usuário sobre gastos utilizando .NET e React no front.
 
 ---
 
@@ -21,6 +10,7 @@ O objetivo principal é praticar o uso do .NET, explorando suas funcionalidades 
 
 - **.NET LTS Version 8.0**
 - **C#**
+- React
 - **Entity Framework Core** (para persistência de dados)
 - **Swagger** (para documentação e testes da API)
 
@@ -36,7 +26,7 @@ O objetivo principal é praticar o uso do .NET, explorando suas funcionalidades 
 
 1. Clone o repositório para sua máquina:
 ```
-git clone https://github.com/guisoaresdev/dotnet-api-4-api.git
+git clone https://github.com/guisoaresdev/dotnet-finance-app.git
 ```
 2. Navegue até o diretório do projeto:
 
