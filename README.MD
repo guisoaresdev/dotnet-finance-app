@@ -31,7 +31,7 @@ git clone https://github.com/guisoaresdev/dotnet-finance-app.git
 2. Navegue até o diretório do projeto:
 
 ```
-cd dotnet-api-4-api
+cd dotnet-finance-app
 ```
 
 3. Restaure as dependências do projeto:
